@@ -1,0 +1,17 @@
+# MIMIC-III 원자료와 파생 데이터 (PhysioNet DUA — 공유 금지)
+data/
+work/
+results/
+*.pkl
+*.csv
+*.csv.gz
+
+# 실행 로그·노트북 출력
+*.log
+*.ipynb
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
