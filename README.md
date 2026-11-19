@@ -1,7 +1,5 @@
 # MIMIC-III 방사선 판독문 타임스탬프의 정량적 특성화
 
-윤관, 김유섭 (한림대학교) · 한국정보처리학회 ACK 2026 발표 논문의 분석 코드입니다.
-
 MIMIC-III NOTEEVENTS의 두 시각 필드(CHARTTIME, STORETIME)를 방사선 판독문 중심으로 분석합니다.
 
 1. 노트 종류별 STORETIME 결측률
@@ -79,6 +77,8 @@ python section3_clip_addendum.py   # Clip#·addendum CHARTTIME 비교
 윤관, 김유섭, "MIMIC-III 방사선 판독문 타임스탬프의 정량적 특성화,"
 한국정보처리학회 ACK 2026, 2026.
 ```
+
+지도교수: 김유섭 교수님
 
 ## 사사
 
